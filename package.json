@@ -16,7 +16,7 @@
     "dayjs": "^1.11.6",
     "discord.js": "^14.4.0",
     "dotenv": "^16.0.2",
-    "mongoose": "^6.6.1",
+    "mongoose": "^8.8.3",
     "nodemon": "^2.0.20",
     "rcon-client": "^4.2.3"
   }
